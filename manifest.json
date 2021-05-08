@@ -3,8 +3,8 @@
     "short_name": "PWACorona",
     "icons": [
       {
-        "src": "/images/corona-app-icon-384x384.jpg",
-        "type": "image/jpg",
+        "src": "/images/corona-app-icon-384x384.png",
+        "type": "image/png",
         "sizes": "384x384"
       }
     ],
