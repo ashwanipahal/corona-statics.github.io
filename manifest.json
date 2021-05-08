@@ -16,5 +16,11 @@
     "theme_color": "#3f51b5",
     "description": "Corona as Progressive Web App.",
     "dir": "ltr",
-    "lang": "en-US"
+    "lang": "en-US",
+    "permissions": [
+      "tabs",
+      "notifications",
+      "http://*/",
+      "https://*/"
+  ]
   }
